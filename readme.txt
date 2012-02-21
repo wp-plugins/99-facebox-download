@@ -6,7 +6,7 @@ Requires at least: 2.8
 Tested up to: 3.3.1
 Stable tag: 1.0.0
 
-短码[idl]实现下载链接弹窗效果，使用facebox特效.适合资源下载日志及博客.
+A download popup manager for your WordPress blog,use short code of wordpress.base on facebox. modify by 99839.
 
 == Description ==
 
