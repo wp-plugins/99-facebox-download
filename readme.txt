@@ -6,7 +6,7 @@ Requires at least: 2.8
 Tested up to: 3.3.1
 Stable tag: 1.0.0
 
-Automatically invokes Facebox on html items and linked images in a post or page.
+短码[idl]实现下载链接弹窗效果，使用facebox特效.适合资源下载日志及博客.
 
 == Description ==
 
