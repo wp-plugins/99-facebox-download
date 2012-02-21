@@ -1,4 +1,4 @@
-=== WP Facebox download ===
+ï»¿=== WP Facebox download ===
 Contributors: Facebox popup download
 Donate link: https://me.alipay.com/jeray
 Tags: facebox, lightbox, popup, download
@@ -10,7 +10,7 @@ Automatically invokes Facebox on html items and linked images in a post or page.
 
 == Description ==
 
-Facebox is a jQuery-based, Facebook-style lightbox which can display images, divs, or entire remote pages. It's simple to use and easy on the eyes. This plugin makes Facebox installation a breeze. Inspired by <a href="http://wordpress.org/extend/plugins/wp-facebox/">Daniel Stockman's Facebox v1.2.2</a>, Ê¹ÓÃ·½·¨: <code>[idl id="×Ô¶¨ÒåÖµ" t="ÒªÏÔÊ¾µÄÁ´½ÓÎÄ×Ö"] ÏÂÔØÁ´½ÓÁĞ±í [/idl]</code>. »òÊÇÍ¼Æ¬µ¯´°<code>[idl img="file.jpg"]Í¼Æ¬µØÖ·[/idl]</code>. .
+Facebox is a jQuery-based, Facebook-style lightbox which can display images, divs, or entire remote pages. It's simple to use and easy on the eyes. This plugin makes Facebox installation a breeze. Inspired by <a href="http://wordpress.org/extend/plugins/wp-facebox/">Daniel Stockman's Facebox v1.2.2</a>, ä½¿ç”¨æ–¹æ³•: <code>[idl id="è‡ªå®šä¹‰å€¼" t="è¦æ˜¾ç¤ºçš„é“¾æ¥æ–‡å­—"] ä¸‹è½½é“¾æ¥åˆ—è¡¨ [/idl]</code>. æˆ–æ˜¯å›¾ç‰‡å¼¹çª—<code>[idl img="file.jpg"]å›¾ç‰‡åœ°å€[/idl]</code>. .
 
 Related Links: <a href="http://www.iesay.com/99-facebox-download/" title="facebox popup">Plugin Homepage</a>, <a href="http://defunkt.io/facebox/" title="Facebox Official Website">Facebox</a>
 
@@ -51,9 +51,7 @@ c. You may not be linking correctly to an image file or content. Linking to cont
 == Changelog ==
 
 = 1.0 =
-* Added gallery and slideshow controls
-* Added titles & descriptions
-* Added Added detection for multiple linked images on the same page
+* Added adlink.php
 
 == Screenshots ==
 
@@ -64,6 +62,6 @@ c. You may not be linking correctly to an image file or content. Linking to cont
 
 == License ==
 
-Good news, this plugin is free for everyone! Since it's released under the GPL, you can use it free of charge on your personal or commercial blog. But if you enjoy this plugin, you can thank me and leave a [small donation](https://me.alipay.com/jeray "Donate with Ö§¸¶±¦") for the time I've spent writing and supporting this plugin.
+Good news, this plugin is free for everyone! Since it's released under the GPL, you can use it free of charge on your personal or commercial blog. But if you enjoy this plugin, you can thank me and leave a [small donation](https://me.alipay.com/jeray "Donate with æ”¯ä»˜å®") for the time I've spent writing and supporting this plugin.
 
 == Special Thanks ==
