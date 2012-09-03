@@ -4,7 +4,7 @@ Donate link: https://me.alipay.com/jeray
 Tags: facebox, lightbox, popup, download
 Requires at least: 2.8
 Tested up to: 3.3.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 
 A download popup manager for your WordPress blog,use short code of wordpress.base on facebox. modify by 99839.
 
@@ -49,6 +49,9 @@ b. You may have another plugin installed that is trying to do something very sim
 c. You may not be linking correctly to an image file or content. Linking to content requires you manually add the attribute to re="facebox" while linking to images does this automatically.
 
 == Changelog ==
+
+= 1.0.1 =
+* bug fixed
 
 = 1.0 =
 * Added adlink.php

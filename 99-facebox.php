@@ -133,7 +133,7 @@ $wp_facebox = new WP_Facebox();
 
 			<div id="down_link">
 				<a rel="facebox" href="#'.$id.'">点击进入 ['.$t.'] 演示下载地址列表</a>
-                                <p>如无特殊说明,本文件解压密码为:<span style="color:#f00">iesay.com</span>.</p>
+                                <p><a href="https://me.alipay.com/jeray" target="_blank">点我赞助作者</a>.如无特殊说明,本文件解压密码为:iesay.com.</p>
 
 				<noscript>&amp;amp;amp;amp;lt;br/&amp;amp;amp;amp;gt;&amp;amp;amp;amp;lt;font color="red"&amp;amp;amp;amp;gt;提取下载地址失败，请尝试按CTRL+F5刷新，或者更换浏览器。&amp;amp;amp;amp;lt;/font&amp;amp;amp;amp;gt;</noscript>
 
@@ -141,13 +141,14 @@ $wp_facebox = new WP_Facebox();
 
 		</div>
 
-		
+		<div class="clear"></div>
 
 		
 
-		<span id="'.$id.'" style="display:none">
+		<div id="'.$id.'" style="display:none">
 
 		
+
 
 	<div class="part">
 
@@ -167,17 +168,20 @@ $wp_facebox = new WP_Facebox();
 
 	<strong>温馨提示：</strong>
 
-	<p>1.本站所有软件和资料均为软件作者提供或网友推荐发布而来，仅供学习和研究使用，不得用于任何商业用途。如本站不慎侵犯你的版权请联系我，我将及时处理，并撤下相关内容！</p>
+	<p>本站所有软件和资料均为软件作者提供或网友推荐发布而来，仅供学习和研究使用，不得用于任何商业用途。如本站不慎侵犯你的版权请联系我，我将及时处理、撤下相关内容！</p>
 
 	</div>
 
-	<div class="part1">1.Our Iesay.com is looking for the best free wordpress theme here..</br>
+	<div class="part1">
+1.Iesay.com is looking for the best free wordpress theme here..</br>
+2.We only index and link to content provided by other sites</br>
+3.<a href="http://signup.clicksor.com/pub/index.php?ref=232889" target="_blank">Start making money with your website!!</a></br>
+4.<A HREF="http://www.postlinks.com?aff=9408" TARGET="_blank">Sell text links on your WordPress blog</A>
 
-    2.We only index and link to content provided by other sites</div>
-
+</div>
 	
 
-	</span>';
+';
 
 	} elseif ($img) {
 
